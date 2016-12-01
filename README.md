@@ -1,6 +1,6 @@
 # msdoubtfire
 
-![](https://raw.githubusercontent.com/broodingGoat/msdoubtfire/master/misc/images/MsDoubtfire.png | width=100)
+<img src="https://raw.githubusercontent.com/broodingGoat/msdoubtfire/master/misc/images/MsDoubtfire.png" width="400">
 
 ## Why is Ms Doubtfire coming over?
 For baby's first year
