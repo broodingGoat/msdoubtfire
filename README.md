@@ -8,9 +8,9 @@ For baby's first year
 + Average number of diaper changes per month - 260
 + Average number of feeds per day - 6
 
-**Minimum number of tasks or events a parent has to track per day - 24**
-**Approx number of tasks or events a parent has to track per year - 8760**
-**Approx time consumed if each task takes a minute - 146 hrs or 6 days**
++ **Minimum number of tasks or events a parent has to track per day - 24**
++ **Approx number of tasks or events a parent has to track per year - 8760**
++ **Approx time consumed if each task takes a minute - 146 hrs or 6 days**
 
 
 And when a child is crying in hunger, lack of sleep or has soiled the diaper, last thing a parent can think of is to find that Baby Care Worksheet, search for the clock, make a note.
