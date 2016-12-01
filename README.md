@@ -1,8 +1,6 @@
 # msdoubtfire
-Reference-style: 
-![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/broodingGoat/msdoubtfire/master/misc/images/MsDoubtfire.png "Ms Doubtfire to the rescue"
+![](https://raw.githubusercontent.com/broodingGoat/msdoubtfire/master/misc/images/MsDoubtfire.png | width=100)
 
 ## Why is Ms Doubtfire coming over?
 For baby's first year
