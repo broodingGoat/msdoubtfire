@@ -1,0 +1,9 @@
+
+Client ID:amzn1.application-oa2-client.e69d4ae147df408482f03dd1f075d360
+
+Client Secret:8402e1fb4b6bd3ef76c53cc49ac3517012645e7dd1b1455ed9746f9406a12a65
+
+Redirect URLs (Optional)
+The list of valid HTTPS redirection endpoints that could be requested during authorization to redirect the user back to after the authorization process. Learn More
+https://layla.amazon.com/api/skill/link/MMPVBB6C7WWSY
+https://pitangui.amazon.com/api/skill/link/MMPVBB6C7WWSY
